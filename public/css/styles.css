@@ -130,3 +130,17 @@ object-fit: none;
 object-position: 5px 0%;
 z-index: -2;
 }
+
+.trasladar6{
+  translate: -30% -240%;
+}
+
+
+.f {
+  position:relative;
+  width: 100%;
+  height: auto;
+  object-fit: none;
+  object-position: 5px 0%;
+  z-index: -3;
+}
