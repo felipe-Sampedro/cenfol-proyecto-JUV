@@ -110,5 +110,23 @@
   object-fit: none;
   object-position: 5px 0%;
   z-index: -2;
-  /* border: 5px solid red; */
+}
+
+
+.forma5{
+  background-image: url("../assets/img/Vector\ 3.png");
+  background-size: 150% 100%;
+}
+
+.trasladar5{
+  translate: 20% -192%;
+}
+
+.e {
+position:relative;
+width: 440.79px;
+height: 569.84px;
+object-fit: none;
+object-position: 5px 0%;
+z-index: -2;
 }
